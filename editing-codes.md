@@ -1,7 +1,7 @@
 ## Process Phase A: Scope & Narrative Structure
 
 | Category  | Editorial Code | Writing Principle |
-| ------------- | :-------------: | :------------ |
+| :---------| :------------: | :---------------- |
 | Opening       | LEDE  | Don't bury the lede. In the article, or even in a sentence.    
 | Opening       | FRONT | Clearly identify your main point or idea up front, in the opening section.            |
 | Opening       | SPFIC | Make the scenario or problem space specific instead of vague, general claims.                         |
@@ -17,7 +17,7 @@
 ## Process Phase B: Flow & Readability
 
 | Category  | Editorial Code | Writing Principle |
-| ------------- | :-------------: | :------------ |
+| :---------| :------------: | :---------------- |
 | Flow                    | FLOW  | Organize the sections and paragraphs in a logical order and ensure they have an elegant flow and transition to them.  |
 | Flow                    | RHYTH | Be aware of the length of paragraphs, avoid overly long blocks of text. Stagger length. Create rhythm and visual variation for your reader.  |
 | Structural Aids         | SUBHD | Relevant subheads assist the reader by breaking up copy and defining the purpose of each text block. This is the structural perspective on the code HEAD.                                                                                                                                      |
@@ -36,7 +36,7 @@
 ## Process Phase C: Style & Phrasing
 
 | Category  | Editorial Code | Writing Principle |
-| ------------- | :-------------: | :------------ |
+| :---------| :------------: | :---------------- |
 | Audience                             | CNECT  | Use language that will connect with your target audience, but avoid jargon that will prevent non-experts from gaining value from your writing.                                                                                                                                                             |
 | Audience                             | EMPATH | Write with the needs, problems, perspective of the target audience in mind    |
 | Grammar, Style and Phrasing          | ANLGY  | Use analogies to help make raw (dull) data more interesting and help people visualise it. e.g. "That's enough people to fill 2/3 of Yankee Stadium," "That's enough cable to go to the Moon and back 3 and a half times," "That's enough electricity to power the city of New York for a week." (see chap. 19 "Everybody Writes" Ann Handley where she says to us "common, but surprising" analogies) |
@@ -65,7 +65,7 @@
 ## Process Phase D: Word Choice
 
 | Category  | Editorial Code | Writing Principle |
-| ------------- | :-------------: | :------------ |
+| :---------| :------------: | :---------------- |
 | Strong verbs            | ACTIV | Use the active voice (mostly) to center the reader in the action. Check if gerund (-ing) phrases are weakening your message.             |
 | Strong verbs            | VERBS | Replace common, weak or vague verbs with more specific, colorful ones.  |
 | Strong verbs            | LEAD  | Lead with verbs and actions                                           |
