@@ -1,3 +1,7 @@
+
+
+This collection of editing codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. They are organized into four structural sections and help you edit consistently.
+
 ## Process Phase A: Scope & Narrative Structure
 
 | Category  | Editorial Code | Writing Principle |
