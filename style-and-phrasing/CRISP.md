@@ -55,7 +55,7 @@ Readers like CRISP sentences because they feel like you're not wasting their tim
 
 ## Find out more
 
-* Listen to the CRISP episode of the [OSP podcast](https://openstrategypartners.com/crisp-the-osp-editorial-code-podcast-s1e2)
+* Listen to the [CRISP episode](https://openstrategypartners.com/crisp-the-osp-editorial-code-podcast-s1e2) of the OSP podcast: [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw).
 * Check out the full list of [editorial codes](../editing-codes.md)
 * Learn how to use this code when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide)
 
