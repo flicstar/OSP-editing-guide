@@ -1,6 +1,11 @@
 
+# Editorial Codes
 
-This collection of editing codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. They are organized into four structural sections and help you edit consistently.
+This collection of semantic editorial codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. 
+
+They are organized into four structural sections and help you edit consistently.
+
+> Find out more about how to use these in the [Quick Start Guide](https://openstrategypartners.com/editing-codes-quick-start-guide).
 
 ## Process Phase A: Scope & Narrative Structure
 
