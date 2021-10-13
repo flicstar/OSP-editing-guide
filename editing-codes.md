@@ -1,7 +1,13 @@
+Our Editing Guide includes:
 
-# Editorial Codes
+* Our editing [philosophy](editing-philosophy.md)
+* The [four phases](editing-phases.md) in our process
+* Our editing [workflow](editing-workflow.md)
+* The list of our [editing codes](editing-codes.md).
+ 
+# Editing Codes
 
-This collection of semantic editorial codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. 
+This collection of semantic editing codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. 
 
 They are organized into four [editing phases](editing-phases.md) and help you edit consistently.
 
