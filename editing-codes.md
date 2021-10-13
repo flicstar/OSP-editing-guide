@@ -5,6 +5,8 @@ This collection of semantic editorial codes are short editing marks that communi
 
 They are organized into four structural sections and help you edit consistently.
 
+When reviewing a written piece of content, use a code to support your editorial comment or suggestion.
+
 > Find out more about how to use these in the [Quick Start Guide](https://openstrategypartners.com/editing-codes-quick-start-guide).
 
 ## Process Phase A: Scope & Narrative Structure
