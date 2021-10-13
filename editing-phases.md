@@ -1,13 +1,13 @@
 # Editing Phases
 
-Our editing process is divided into stages. We move from the largest scope (structure) to the smallest, (choice of words). 
+Our editing process is divided into phases. We move from the largest scope (structure) to the smallest, (choice of words). 
 
 * **Scope & Narrative Structure**: Your piece should have a thesis and the subsequent narrative should follow a logical progression proving it.
 * **Flow & Readability**: Assess how the content flows and transitions between sections. Include visual cues (lists, headers, etc.) to help the reader move through the narrative easily. 
 * **Style & Phrasing**: Make sure you’re writing engaging content appropriate for the brand and target audience.
 * **Choice of Words**: Scan the choice of specific words for appropriate emotional tone, proper grammar, and accurate terminology. 
 
-When editing someone else’s work, you can and will skip back and forth between stages, but they give us a strong logical framework to help us be kind, consistent, and helpful editors.
+When editing someone else’s work, you can and will skip back and forth between phases, but they give us a strong logical framework to help us be kind, consistent, and helpful editors.
 
 ## The Brief and the Positivity Pass
 
