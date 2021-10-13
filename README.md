@@ -1,5 +1,9 @@
-# OSP-writing-and-editing
+# OSP Editing Guide
 
-Comprises our
-* Writing and Editing Guide.
-* Our [Editorial Codes](editing-codes.md).
+Our Editing Guide includes:
+
+* Our editing [philosophy](editing-philosophy.md)
+* The [four phases](editing-phases.md) in our process
+* The list of our [editing codes](editing-codes.md).
+
+
