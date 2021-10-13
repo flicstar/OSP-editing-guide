@@ -1,3 +1,10 @@
+Our Editing Guide includes:
+
+* Our editing [philosophy](editing-philosophy.md)
+* The [four phases](editing-phases.md) in our process
+* Our editing [workflow](editing-workflow.md)
+* The list of our [editing codes](editing-codes.md).
+ 
 # Editing Phases
 
 Our editing process is divided into phases. We move from the largest scope (structure) to the smallest, (choice of words). 
