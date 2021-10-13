@@ -17,6 +17,6 @@ After the editor scans the brief, the second step is to conduct the "Positivity 
 
 ## Find out more
 
-🎙 Listen to the first episode of the OSP podcast, [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw), which explains [how we write and edit](https://openstrategypartners.com/how-we-write-and-edit-at-osp-podcast-s1e1) at OSP.
-📝 Check out the full list of [editorial codes](https://github.com/flicstar/OSP-writing-and-editing/blob/main/editing-codes.md).
-👩🏼‍🎓 Learn how to use the editorial codes when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide).
+* 🎙 Listen to the first episode of the OSP podcast, [Communicate, Connect, Grow](https://www.youtube.com/channel/UCK1FgQnuVwknf_CWenjZSMw), which explains [how we write and edit](https://openstrategypartners.com/how-we-write-and-edit-at-osp-podcast-s1e1) at OSP.
+* 📝 Check out the full list of [editorial codes](https://github.com/flicstar/OSP-writing-and-editing/blob/main/editing-codes.md).
+* 👩🏼‍🎓 Learn how to use the editorial codes when you're editing with the [Editing codes quick start quide](https://openstrategypartners.com/editing-codes-quick-start-guide).
