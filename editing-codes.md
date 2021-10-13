@@ -3,7 +3,7 @@
 
 This collection of semantic editorial codes are short editing marks that communicate the rationale behind a suggested edit, based on a specific writing guideline. 
 
-They are organized into four structural sections and help you edit consistently.
+They are organized into four [editing phases](editing-phases.md) and help you edit consistently.
 
 When reviewing a written piece of content, use a code to support your editorial comment or suggestion.
 
