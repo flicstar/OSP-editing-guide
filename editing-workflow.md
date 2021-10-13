@@ -1,3 +1,10 @@
+Our Editing Guide includes:
+
+* Our editing [philosophy](editing-philosophy.md)
+* The [four phases](editing-phases.md) in our process
+* Our editing [workflow](editing-workflow.md)
+* The list of our [editing codes](editing-codes.md).
+ 
 # Editing workflow
 
 Our editing workflow has six steps moving from the largest scope (structure) to the smallest (choice of words). These steps
@@ -61,3 +68,4 @@ Look at the choice of specific words.  At this level, we can create stronger con
 by choosing words that are correct within the context of the content. We can also discard passive phrasing in favor of writing that exhibits more color and flair. This 
 is where we focus on the accuracy of terminology, defining new phrases and terms for the audience. And of course, the right punctuation and grammar are essential for 
 comprehension. 
+
